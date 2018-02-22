@@ -1,26 +1,47 @@
-Minetest Game mod: beds
-=======================
-See license.txt for license information.
+===BEDS MOD for MINETEST-C55===
+by PilzAdam
 
-Authors of source code
-----------------------
-Originally by BlockMen (MIT)
-Various Minetest developers and contributors (MIT)
+Introduction:
+This mods brings beds to Minetest. You can use them to sleep at night
+to prevent attacks by evil mobs.
 
-Authors of media (textures)
----------------------------
-BlockMen (CC BY-SA 3.0)
+How to install:
+Unzip the archive an place it in minetest-base-directory/mods/minetest/
+if you have a windows client or a linux run-in-place client. If you have
+a linux system-wide instalation place it in ~/.minetest/mods/minetest/.
+If you want to install this mod only in one world create the folder
+worldmods/ in your worlddirectory.
+For further information or help see:
+http://wiki.minetest.com/wiki/Installing_Mods
 
-This mod adds a bed to Minetest which allows to skip the night.
-To sleep, rightclick the bed. If playing in singleplayer mode the night gets skipped
-immediately. If playing multiplayer you get shown how many other players are in bed too,
-if all players are sleeping the night gets skipped. The night skip can be forced if more
-than 50% of the players are lying in bed and use this option.
+How to use the mod:
+Craft a bed like this:
+white wool  white wool   white wool
+stick                    stick
+After placing it anywhere you can go to sleep with a leftklick with your
+hand on the bed. If it is night a chatmessage wishs you "Good night" and
+you sleep until the next morning. To go outside the bed it is recommended
+to hit the bed again with a leftklick (it also works if you just go away
+but its not so safe).
+After dying the player will respawn at the last bed he has slept.
 
-Another feature is a controlled respawning. If you have slept in bed (not just lying in
-it) your respawn point is set to the beds location and you will respawn there after
-death.
-You can disable the respawn at beds by setting "enable_bed_respawn = false" in
-minetest.conf.
-You can disable the night skip feature by setting "enable_bed_night_skip = false" in
-minetest.conf or by using the /set command in-game.
+License:
+Sourcecode: WTFPL (see below)
+Graphics: WTFPL (see below)
+
+See also:
+http://minetest.net/
+
+         DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+                    Version 2, December 2004
+
+ Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
+
+ Everyone is permitted to copy and distribute verbatim or modified
+ copies of this license document, and changing it is allowed as long
+ as the name is changed.
+
+            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+
+  0. You just DO WHAT THE FUCK YOU WANT TO. 

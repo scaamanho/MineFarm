@@ -1,0 +1,314 @@
+
+INDEX (row's number - topic)
+=====
+
+ 16 - Based On
+ 25 - User Interface related
+ 39 - Map related
+ 74 - Physics and damage
+ 90 - Flora and fauna
+135 - Character
+174 - Tools and alike
+223 - Buildings and similar
+308 - Engine related
+
+
+Based on
+========
+   
+- Minetest Game -
+https://forum.minetest.net/viewtopic.php?f=15&t=9724
+By Various Contributors
+https://github.com/minetest/minetest_game/graphs/contributors
+
+
+User Interface related
+======================
+
+- Internationalization Library -
+https://forum.minetest.net/viewtopic.php?f=11&t=4929
+By kaeza
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=3279
+
+- Minetest Game I18n -
+https://forum.minetest.net/viewtopic.php?f=9&t=17388
+By LNJ
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=11531
+
+
+Map related
+===========
+
+- Snow, rain, clouds (with sound) -
+https://forum.minetest.net/viewtopic.php?f=11&t=6854
+By paramat
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=3380
+
+- subterrane -
+https://github.com/minetest-mods/subterrane
+By FaceDeer
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=18410
+
+- Dwarf Fortress style caverns -
+https://forum.minetest.net/viewtopic.php?f=9&t=17096
+By FaceDeer
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=18410
+
+- Real Minerals -
+https://github.com/FaceDeer/real_minerals
+Ported from Real Test
+https://forum.minetest.net/viewtopic.php?id=2671
+By FaceDeer
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=18410
+
+- Stonebrick Dungeons -
+https://forum.minetest.net/viewtopic.php?f=9&t=18457
+By me
+
+- Loot Framework -
+https://forum.minetest.net/viewtopic.php?f=11&t=13991
+By Byakuren
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=13665
+
+
+Physics and damage
+==================
+
+- Fallen Nodes -
+https://forum.minetest.net/viewtopic.php?f=9&t=18239
+By me
+
+- Fallen Trees -
+https://forum.minetest.net/viewtopic.php?f=9&t=18252
+By me
+
+- Killer Nodes -
+https://forum.minetest.net/viewtopic.php?f=9&t=18339
+By me
+
+
+Flora and fauna
+===============
+
+- Real Trees -
+https://forum.minetest.net/viewtopic.php?f=9&t=16286
+By yzelast
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=19987
+
+- crops -
+https://forum.minetest.net/viewtopic.php?f=11&t=11795
+By sofar
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=12512
+
+- Mobs Redo (and mobs_animal, mobs_monster, mob_horse) -
+https://forum.minetest.net/viewtopic.php?f=11&t=9917
+By TenPlus1
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=6871
+
+- water critters -
+https://forum.minetest.net/viewtopic.php?f=9&t=12652
+By blert2112 and R-0ne
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=14551
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=22395
+
+- sky critters -
+https://forum.minetest.net/viewtopic.php?f=9&t=12688
+By blert2112
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=14551
+
+- Goblins -
+https://forum.minetest.net/viewtopic.php?f=9&t=13004
+By FreeLikeGNU
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=11834
+
+- Arctic Life -
+https://forum.minetest.net/viewtopic.php?f=9&t=16072
+By NathanSalapat
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=11543
+
+- Desert Life -
+
+By NathanSalapat
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=11543
+
+
+Character
+=========
+
+- HUD Bars -
+https://forum.minetest.net/viewtopic.php?f=11&t=11153
+By Wuzzy
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=3082
+
+- Hunger with HUD bar -
+https://forum.minetest.net/viewtopic.php?f=11&t=11336
+By Wuzzy
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=3082
+
+- Armor HUD bar -
+https://forum.minetest.net/viewtopic.php?f=9&t=11337
+By Wuzzy
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=3082
+
+- Sprint w. hudbars, hunger, monoids support -
+https://forum.minetest.net/viewtopic.php?f=9&t=18069
+By texmex
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=19662
+
+- Thirsty -
+https://forum.minetest.net/viewtopic.php?f=9&t=11820
+By Ben
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=13425
+
+- Diet -
+https://forum.minetest.net/viewtopic.php?f=11&t=9051
+By rubenwardy
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=2051
+
+- 3D Armor -
+https://forum.minetest.net/viewtopic.php?f=11&t=4654
+By stu
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=4188
+
+
+Tools and alike
+===============
+
+- Anvil -
+https://github.com/minetest-mods/anvil
+By Sokomine
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=2936
+
+- Archer -
+https://forum.minetest.net/viewtopic.php?f=11&t=17007
+By Saavedra29
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=20750
+
+- Backpacks -
+https://forum.minetest.net/viewtopic.php?f=9&t=14579
+By everamzah
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=12651
+
+- Placeable Books -
+https://forum.minetest.net/viewtopic.php?f=9&t=15214
+By everamzah
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=12651
+
+- Crafting Guide -
+https://forum.minetest.net/viewtopic.php?f=11&t=14088
+By jp
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=8608
+
+- Real Torch -
+https://forum.minetest.net/viewtopic.php?f=11&t=15721
+By TenPlus1
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=6871
+
+- Ropes and rope ladders -
+https://forum.minetest.net/viewtopic.php?f=9&t=16559
+By FaceDeer
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=18410
+
+- Tool ranks -
+https://forum.minetest.net/viewtopic.php?f=11&t=18056
+By lisavcvuk
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=10933
+
+- Wooden Bucket -
+https://forum.minetest.net/viewtopic.php?f=9&t=16472
+By duane
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=18344
+
+
+Buildings and similar
+=====================
+
+- Darkage -
+https://forum.minetest.net/viewtopic.php?f=11&t=3213
+By Addi
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=3040
+
+- Hidden Doors -
+https://forum.minetest.net/viewtopic.php?f=9&t=18294
+By me and Napiophelios
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=10856
+
+- Simple Arcs -
+https://forum.minetest.net/viewtopic.php?f=11&t=14541
+By PEAK
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=16638
+
+- Smaller Steps -
+https://forum.minetest.net/viewtopic.php?f=9&t=18283
+By me
+
+- Library -
+https://forum.minetest.net/viewtopic.php?f=9&t=18359
+By v-rob
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=19201
+
+- Carpet -
+https://forum.minetest.net/viewtopic.php?f=11&t=2875
+By Jordach
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=332
+
+- Castle Lighing -
+https://github.com/minetest-mods/castle_lighting
+By philipbenr and Dan DunCombe
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=6103
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=5529
+
+- Castle Masonry -
+https://github.com/minetest-mods/castle_masonry
+By philipbenr and Dan DunCombe
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=6103
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=5529
+
+- Castle Shields -
+https://github.com/minetest-mods/castle_shields
+By philipbenr and Dan DunCombe
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=6103
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=5529
+
+- Castle Storage -
+https://github.com/minetest-mods/castle_storage
+By philipbenr and Dan DunCombe
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=6103
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=5529
+
+- Castle Tapestries -
+https://github.com/minetest-mods/castle_tapestries
+By philipbenr and Dan DunCombe
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=6103
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=5529
+
+- Castle Weapons -
+https://github.com/minetest-mods/castle_weapons
+By philipbenr and Dan DunCombe
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=6103
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=5529
+
+- All Walls -
+https://forum.minetest.net/viewtopic.php?f=11&t=18172&hilit=walls
+By v-rob
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=19201
+
+- Castle Gates -
+https://github.com/minetest-mods/castle_gates
+By philipbenr and Dan DunCombe
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=6103
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=5529
+
+- TS Furniture -
+https://forum.minetest.net/viewtopic.php?f=11&t=14302
+By Thomas-S
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=18458
+
+
+Engine related
+==============
+
+- Unified Dyes -
+https://forum.minetest.net/viewtopic.php?f=11&t=2178
+By VanessaE
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=1580
