@@ -10,25 +10,24 @@
 223 - Buildings and similar
 308 - Engine related
 
-
 ## Based On
 
-- Minetest Game -
+### Minetest Game -
 https://forum.minetest.net/viewtopic.php?f=15&t=9724
 By Various Contributors
 https://github.com/minetest/minetest_game/graphs/contributor
 
 ## Textures
- 
+
 ### 32 bits textures
+
+https://github.com/Napiophelios/MTCORE32px
 
 ## User Interface
 
 ### Unified Inventory
+
 https://forum.minetest.net/viewtopic.php?t=3933
-
-
-
 
 ### hbarmor
 
@@ -39,7 +38,6 @@ https://forum.minetest.net/viewtopic.php?t=3933
 ## 
 
 ## Mapp Related
-
 
 ## Physics and damage
 
@@ -60,7 +58,7 @@ https://forum.minetest.net/memberlist.php?mode=viewprofile&u=6871
 
 ### Adv Spawning
 
-### MC MOBS
+### MC Mobs
 
 
 
@@ -79,9 +77,14 @@ https://forum.minetest.net/viewtopic.php?id=4147
 ### Beds
 ###
 ###
-###
 
-## 
+
+## Buildings and similar
+
+### xdecor
+https://github.com/minetest-mods/xdecor
+https://forum.minetest.net/viewtopic.php?t=12534
+
 ## 
 ## 
 ## 
