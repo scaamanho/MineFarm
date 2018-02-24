@@ -9,7 +9,7 @@ local registered_nodes = minetest.registered_nodes
 local nodes = {}
 for node, def in pairs(registered_nodes) do
 	if (def.drawtype == "normal" or def.drawtype:sub(1,5) == "glass") and
-	   (def.groups.cracky or def.groups.choppy) and
+	   --(def.groups.cracky or def.groups.choppy) and
 	   not def.on_construct and
 	   not def.after_place_node and
 	   not def.on_rightclick and
@@ -17,12 +17,9 @@ for node, def in pairs(registered_nodes) do
 	   not def.allow_metadata_inventory_take and
 	   not (def.groups.not_in_creative_inventory == 1) and
 	   not (def.groups.not_cuttable == 1) and
-	   not def.groups.wool and
-	   (def.tiles and type(def.tiles[1]) == "string" and not
-		def.tiles[1]:find("default_mineral")) and
+	   --not def.groups.wool and (def.tiles and type(def.tiles[1]) == "string" and not def.tiles[1]:find("default_mineral")) and
 	   not def.mesecons and
-	   def.description and
-	   def.description ~= "" and
+	   def.description and def.description ~= "" and
 	   def.light_source == 0
 	then
 		nodes[#nodes+1] = node
@@ -175,8 +172,14 @@ function workbench.timer(pos)
 	end
 
 	-- Tool's wearing range: 0-65535 | 0 = new condition
-	tool:add_wear(-500)
+	
+	-- repair the tool
+	tool:add_wear(-700)
+	--tool:add_wear(-500)
+	
+	--damage the hammer
 	hammer:add_wear(700)
+	--hammer:add_wear(700)
 
 	inv:set_stack("tool", 1, tool)
 	inv:set_stack("hammer", 1, hammer)
