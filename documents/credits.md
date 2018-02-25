@@ -32,9 +32,13 @@ https://forum.minetest.net/viewtopic.php?t=3933
 ### hbarmor
 
 ### hbhunger
+
 ### hbspring
+
 ### hudbars
-## 
+
+##
+ 
 ## 
 
 ## Mapp Related
@@ -60,8 +64,11 @@ https://forum.minetest.net/memberlist.php?mode=viewprofile&u=6871
 
 ### MC Mobs
 
+###
 
+###
 
+###
 
 ## Character
 
@@ -82,9 +89,12 @@ https://forum.minetest.net/viewtopic.php?id=4147
 ## Buildings and similar
 
 ### xdecor
-https://github.com/minetest-mods/xdecor
-https://forum.minetest.net/viewtopic.php?t=12534
 
-## 
+<https://github.com/minetest-mods/xdecor>
+<https://forum.minetest.net/viewtopic.php?t=12534>
+
+## Ambilight
+
+<https://github.com/scaamanho/ambilight>
 ## 
 ## 
