@@ -82,7 +82,12 @@ https://forum.minetest.net/viewtopic.php?id=4147
 ## Tools and alike
 
 ### Beds
-###
+ todo
+ 
+### Tool ranks
+https://forum.minetest.net/viewtopic.php?f=11&t=18056
+By lisavcvuk
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=10933
 ###
 
 
@@ -93,15 +98,67 @@ https://forum.minetest.net/viewtopic.php?id=4147
 <https://github.com/minetest-mods/xdecor>
 <https://forum.minetest.net/viewtopic.php?t=12534>
 
-## Ambilight
+### Ambilight
 
 <https://github.com/scaamanho/ambilight>
 
-## Darkage
+### Darkage
 
 <https://forum.minetest.net/viewtopic.php?f=11&t=3213>
 By Addi
 <https://forum.minetest.net/memberlist.php?mode=viewprofile&u=3040>
+
+### Carpet -
+https://forum.minetest.net/viewtopic.php?f=11&t=2875
+By Jordach
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=332
+
+### Castle Lighing -
+https://github.com/minetest-mods/castle_lighting
+By philipbenr and Dan DunCombe
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=6103
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=5529
+
+### Castle Masonry -
+https://github.com/minetest-mods/castle_masonry
+By philipbenr and Dan DunCombe
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=6103
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=5529
+
+### Castle Shields -
+https://github.com/minetest-mods/castle_shields
+By philipbenr and Dan DunCombe
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=6103
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=5529
+
+### Castle Storage -
+https://github.com/minetest-mods/castle_storage
+By philipbenr and Dan DunCombe
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=6103
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=5529
+
+### Castle Tapestries -
+https://github.com/minetest-mods/castle_tapestries
+By philipbenr and Dan DunCombe
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=6103
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=5529
+
+### Castle Weapons -
+https://github.com/minetest-mods/castle_weapons
+By philipbenr and Dan DunCombe
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=6103
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=5529
+
+### Castle Gates -
+https://github.com/minetest-mods/castle_gates
+By philipbenr and Dan DunCombe
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=6103
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=5529
+ 
+### TS Furniture -
+https://forum.minetest.net/viewtopic.php?f=11&t=14302
+By Thomas-S
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=18458
  
 ## Engine Related
 
