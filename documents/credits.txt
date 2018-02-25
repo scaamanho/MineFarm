@@ -209,10 +209,7 @@ https://forum.minetest.net/viewtopic.php?f=9&t=16559
 By FaceDeer
 https://forum.minetest.net/memberlist.php?mode=viewprofile&u=18410
 
-- Tool ranks -
-https://forum.minetest.net/viewtopic.php?f=11&t=18056
-By lisavcvuk
-https://forum.minetest.net/memberlist.php?mode=viewprofile&u=10933
+
 
 - Wooden Bucket -
 https://forum.minetest.net/viewtopic.php?f=9&t=16472
@@ -222,11 +219,6 @@ https://forum.minetest.net/memberlist.php?mode=viewprofile&u=18344
 
 Buildings and similar
 =====================
-
-- Darkage -
-https://forum.minetest.net/viewtopic.php?f=11&t=3213
-By Addi
-https://forum.minetest.net/memberlist.php?mode=viewprofile&u=3040
 
 - Hidden Doors -
 https://forum.minetest.net/viewtopic.php?f=9&t=18294
@@ -247,68 +239,13 @@ https://forum.minetest.net/viewtopic.php?f=9&t=18359
 By v-rob
 https://forum.minetest.net/memberlist.php?mode=viewprofile&u=19201
 
-- Carpet -
-https://forum.minetest.net/viewtopic.php?f=11&t=2875
-By Jordach
-https://forum.minetest.net/memberlist.php?mode=viewprofile&u=332
-
-- Castle Lighing -
-https://github.com/minetest-mods/castle_lighting
-By philipbenr and Dan DunCombe
-https://forum.minetest.net/memberlist.php?mode=viewprofile&u=6103
-https://forum.minetest.net/memberlist.php?mode=viewprofile&u=5529
-
-- Castle Masonry -
-https://github.com/minetest-mods/castle_masonry
-By philipbenr and Dan DunCombe
-https://forum.minetest.net/memberlist.php?mode=viewprofile&u=6103
-https://forum.minetest.net/memberlist.php?mode=viewprofile&u=5529
-
-- Castle Shields -
-https://github.com/minetest-mods/castle_shields
-By philipbenr and Dan DunCombe
-https://forum.minetest.net/memberlist.php?mode=viewprofile&u=6103
-https://forum.minetest.net/memberlist.php?mode=viewprofile&u=5529
-
-- Castle Storage -
-https://github.com/minetest-mods/castle_storage
-By philipbenr and Dan DunCombe
-https://forum.minetest.net/memberlist.php?mode=viewprofile&u=6103
-https://forum.minetest.net/memberlist.php?mode=viewprofile&u=5529
-
-- Castle Tapestries -
-https://github.com/minetest-mods/castle_tapestries
-By philipbenr and Dan DunCombe
-https://forum.minetest.net/memberlist.php?mode=viewprofile&u=6103
-https://forum.minetest.net/memberlist.php?mode=viewprofile&u=5529
-
-- Castle Weapons -
-https://github.com/minetest-mods/castle_weapons
-By philipbenr and Dan DunCombe
-https://forum.minetest.net/memberlist.php?mode=viewprofile&u=6103
-https://forum.minetest.net/memberlist.php?mode=viewprofile&u=5529
 
 - All Walls -
 https://forum.minetest.net/viewtopic.php?f=11&t=18172&hilit=walls
 By v-rob
 https://forum.minetest.net/memberlist.php?mode=viewprofile&u=19201
 
-- Castle Gates -
-https://github.com/minetest-mods/castle_gates
-By philipbenr and Dan DunCombe
-https://forum.minetest.net/memberlist.php?mode=viewprofile&u=6103
-https://forum.minetest.net/memberlist.php?mode=viewprofile&u=5529
-
-- TS Furniture -
-https://forum.minetest.net/viewtopic.php?f=11&t=14302
-By Thomas-S
-https://forum.minetest.net/memberlist.php?mode=viewprofile&u=18458
 
 
 Engine related
 ==============
-
-- Unified Dyes -
-https://forum.minetest.net/viewtopic.php?f=11&t=2178
-By VanessaE
-https://forum.minetest.net/memberlist.php?mode=viewprofile&u=1580
