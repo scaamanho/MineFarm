@@ -96,5 +96,17 @@ https://forum.minetest.net/viewtopic.php?id=4147
 ## Ambilight
 
 <https://github.com/scaamanho/ambilight>
-## 
-## 
+
+## Darkage
+
+<https://forum.minetest.net/viewtopic.php?f=11&t=3213>
+By Addi
+<https://forum.minetest.net/memberlist.php?mode=viewprofile&u=3040>
+ 
+## Engine Related
+
+### Unified Dyes
+
+<https://forum.minetest.net/viewtopic.php?f=11&t=2178>
+By VanessaE
+<https://forum.minetest.net/memberlist.php?mode=viewprofile&u=1580>
