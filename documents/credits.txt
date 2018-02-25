@@ -61,14 +61,9 @@ https://forum.minetest.net/viewtopic.php?id=2671
 By FaceDeer
 https://forum.minetest.net/memberlist.php?mode=viewprofile&u=18410
 
-- Stonebrick Dungeons -
-https://forum.minetest.net/viewtopic.php?f=9&t=18457
-By me
 
-- Loot Framework -
-https://forum.minetest.net/viewtopic.php?f=11&t=13991
-By Byakuren
-https://forum.minetest.net/memberlist.php?mode=viewprofile&u=13665
+
+
 
 
 Physics and damage
@@ -179,10 +174,7 @@ https://github.com/minetest-mods/anvil
 By Sokomine
 https://forum.minetest.net/memberlist.php?mode=viewprofile&u=2936
 
-- Archer -
-https://forum.minetest.net/viewtopic.php?f=11&t=17007
-By Saavedra29
-https://forum.minetest.net/memberlist.php?mode=viewprofile&u=20750
+
 
 - Backpacks -
 https://forum.minetest.net/viewtopic.php?f=9&t=14579
@@ -211,10 +203,7 @@ https://forum.minetest.net/memberlist.php?mode=viewprofile&u=18410
 
 
 
-- Wooden Bucket -
-https://forum.minetest.net/viewtopic.php?f=9&t=16472
-By duane
-https://forum.minetest.net/memberlist.php?mode=viewprofile&u=18344
+
 
 
 Buildings and similar
@@ -234,10 +223,6 @@ https://forum.minetest.net/memberlist.php?mode=viewprofile&u=16638
 https://forum.minetest.net/viewtopic.php?f=9&t=18283
 By me
 
-- Library -
-https://forum.minetest.net/viewtopic.php?f=9&t=18359
-By v-rob
-https://forum.minetest.net/memberlist.php?mode=viewprofile&u=19201
 
 
 - All Walls -

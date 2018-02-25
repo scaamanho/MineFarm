@@ -43,9 +43,21 @@ https://forum.minetest.net/viewtopic.php?t=3933
 
 ## Mapp Related
 
+### - Stonebrick Dungeons -
+
+https://forum.minetest.net/viewtopic.php?f=9&t=18457
+
+### - Loot Framework -
+
+https://forum.minetest.net/viewtopic.php?f=11&t=13991
+By Byakuren
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=13665
+
+
 ## Physics and damage
 
 ### item_drop
+
 ### mcl_falling_nodes
 
 ## 
@@ -82,10 +94,21 @@ https://forum.minetest.net/viewtopic.php?f=9&t=14382
 ## Character
 
 ### User Skins
+
 https://forum.minetest.net/viewtopic.php?id=4147
 
 ### 3darmor
-###
+
+https://forum.minetest.net/viewtopic.php?f=11&t=4654
+By stu
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=4188
+
+### - Diet -
+
+https://forum.minetest.net/viewtopic.php?f=11&t=9051
+By rubenwardy
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=2051
+
 ###
 
 ## Tools and alike
@@ -98,7 +121,25 @@ https://forum.minetest.net/viewtopic.php?f=11&t=18056
 By lisavcvuk
 https://forum.minetest.net/memberlist.php?mode=viewprofile&u=10933
 
-###
+### - Archer -
+https://forum.minetest.net/viewtopic.php?f=11&t=17007
+By Saavedra29
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=20750
+
+### - Placeable Books -
+https://forum.minetest.net/viewtopic.php?f=9&t=15214
+By everamzah
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=12651
+
+### - Crafting Guide -
+https://forum.minetest.net/viewtopic.php?f=11&t=14088
+By jp
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=8608
+
+### - Wooden Bucket -
+https://forum.minetest.net/viewtopic.php?f=9&t=16472
+By duane
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=18344
 
 ## Buildings and similar
 
@@ -118,56 +159,71 @@ By Addi
 <https://forum.minetest.net/memberlist.php?mode=viewprofile&u=3040>
 
 ### Carpet -
+
 https://forum.minetest.net/viewtopic.php?f=11&t=2875
 By Jordach
 https://forum.minetest.net/memberlist.php?mode=viewprofile&u=332
 
 ### Castle Lighing -
+
 https://github.com/minetest-mods/castle_lighting
 By philipbenr and Dan DunCombe
 https://forum.minetest.net/memberlist.php?mode=viewprofile&u=6103
 https://forum.minetest.net/memberlist.php?mode=viewprofile&u=5529
 
 ### Castle Masonry -
+
 https://github.com/minetest-mods/castle_masonry
 By philipbenr and Dan DunCombe
 https://forum.minetest.net/memberlist.php?mode=viewprofile&u=6103
 https://forum.minetest.net/memberlist.php?mode=viewprofile&u=5529
 
 ### Castle Shields -
+
 https://github.com/minetest-mods/castle_shields
 By philipbenr and Dan DunCombe
 https://forum.minetest.net/memberlist.php?mode=viewprofile&u=6103
 https://forum.minetest.net/memberlist.php?mode=viewprofile&u=5529
 
 ### Castle Storage -
+
 https://github.com/minetest-mods/castle_storage
 By philipbenr and Dan DunCombe
 https://forum.minetest.net/memberlist.php?mode=viewprofile&u=6103
 https://forum.minetest.net/memberlist.php?mode=viewprofile&u=5529
 
 ### Castle Tapestries -
+
 https://github.com/minetest-mods/castle_tapestries
 By philipbenr and Dan DunCombe
 https://forum.minetest.net/memberlist.php?mode=viewprofile&u=6103
 https://forum.minetest.net/memberlist.php?mode=viewprofile&u=5529
 
 ### Castle Weapons -
+
 https://github.com/minetest-mods/castle_weapons
 By philipbenr and Dan DunCombe
 https://forum.minetest.net/memberlist.php?mode=viewprofile&u=6103
 https://forum.minetest.net/memberlist.php?mode=viewprofile&u=5529
 
 ### Castle Gates -
+
 https://github.com/minetest-mods/castle_gates
 By philipbenr and Dan DunCombe
 https://forum.minetest.net/memberlist.php?mode=viewprofile&u=6103
 https://forum.minetest.net/memberlist.php?mode=viewprofile&u=5529
  
 ### TS Furniture -
+
 https://forum.minetest.net/viewtopic.php?f=11&t=14302
 By Thomas-S
 https://forum.minetest.net/memberlist.php?mode=viewprofile&u=18458
+
+### - Library -
+
+https://forum.minetest.net/viewtopic.php?f=9&t=18359
+By v-rob
+https://forum.minetest.net/memberlist.php?mode=viewprofile&u=19201
 
 ## Transport
 

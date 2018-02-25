@@ -1,0 +1,1 @@
+The bucket textures were adapted from the Minetest Game's bucket mod.
